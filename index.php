@@ -5,3 +5,5 @@
  * Date: 2018/10/28
  * Time: 0:55
  */
+
+echo 'MY FIRST GO PROJECT';
